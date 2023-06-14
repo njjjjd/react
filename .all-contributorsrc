@@ -7,6 +7,14 @@
   "commit": true,
   "commitConvention": "angular",
   "contributors": [
+    {  "files": [
+    "CONTRIBUTORS.md",
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
     {
       "login": "ferdaber",
       "name": "Ferdy Budhidharma",
