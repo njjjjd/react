@@ -4,6 +4,11 @@
     "README.md"
   ],
   "imageSize": 100,
+  "commit": true,es": [
+    "CONTRIBUTORS.md",
+    "README.md"
+  ],
+  "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
   "contributors": [
