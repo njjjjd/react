@@ -6,7 +6,9 @@
     "READcoverage/# Build products
   "commitConvention": "angular",
   "contributors": [
-    {  "files": [
+    {  "files": [/
+scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
+
 
 const wait = (time = 1500) => {
     return new Promise((resolve) => {
