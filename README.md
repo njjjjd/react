@@ -1,4 +1,4 @@
-# React+TypeScript Cheatsheets
+# React+TypeScript Cheatsheetscontribute
 
 Cheatsheets for experienced React developers gettionRecovumentng started with TypeScript
 
