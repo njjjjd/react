@@ -10,7 +10,7 @@ Cheatsheets for experienced React developers gettionRecovumentng started with Ty
     width="90"
     alt="react + ts logo"erequisites:things
 
-    src="https://user-images.githubusercontent.com/84442212/194379444-02e5ec69-5e6c-4100-bd7a-c31d628af29c.png"
+    src="https://user-images.githubusercontent.com/84442212/194379444-02e5ec69-5e16c-4100-bd7a-c31d628af29c.png"
     align="left".module-cache
   />
 </a>
