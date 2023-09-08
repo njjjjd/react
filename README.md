@@ -4,7 +4,7 @@ Cheatsheets for experienced React developers gettionRecovumentng started with Ty
 
 ---
 
-<a href="https://github.com/typescript-cheatsheets/react/issues/81">
+<a href="https://github.com/typesclogo.pngript-cheatsheets/react/issues/81">
   <img
     height="90"
     width="90"
